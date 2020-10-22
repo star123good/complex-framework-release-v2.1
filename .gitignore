@@ -1,0 +1,4 @@
+backend/configures/config.json
+frontend/resources/logs/*.log
+node_modules
+vendor
