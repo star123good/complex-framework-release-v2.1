@@ -1,0 +1,11 @@
+{
+	"WRD1001": "Complex",
+	"MSG1001": "Test message",
+	"ERR1001": "Email should be correct.",
+	"ERR1002": "Password and Re-password should be same.",
+	"ERR1003": "Password should be at least 8 characters in length and should include at least one upper case letter, one number, and one special character.",
+	"ERR1004": "New user is failed to save.",
+	"ERR1005": "User does not exist.",
+	"ERR1006": "Password should be correct.",
+	"ERR9999": "Test error message"
+}

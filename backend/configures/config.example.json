@@ -1,0 +1,25 @@
+{
+	"ENV": "production",
+	"SITE_TITLE": "Complex",
+	"WEB_HOST": "",
+	"SECRET_KEY": "",
+	"SQL_HOST": "localhost",
+	"SQL_USER": "root",
+	"SQL_PASSWORD": "",
+	"SQL_DB": "",
+	"DEFAULT_PAGENUM": 10,
+	"TIME_ZONE": "",
+	"ADMIN_PATH": "admin",
+	"SAVE_LOG_FILE": false,
+	"SHOW_LOG_VIEW": false,
+	"MIDDLEWARES": [],
+	"THEME": {
+		"CSS": [
+			["style.min.css", "css"]
+		],
+		"JS": [
+			["app.min.js", "js"]
+		]
+	},
+	"DEFAULT_LANG": "en"
+}

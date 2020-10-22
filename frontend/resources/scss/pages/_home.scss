@@ -1,0 +1,20 @@
+/* home page scss */
+
+body.home-body {
+    /* Full size background image */
+    .bg-full-size {
+        height: calc(100vh - #{$top-navbar-height});
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.65;
+    }
+
+    /* test font using responsive */
+    .test-font {
+        font-size: 2em;
+        @include laptop-up {
+            font-size : 3em;
+        }
+    }
+}

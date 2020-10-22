@@ -1,0 +1,23 @@
+/* import variables */
+@import 'variables';
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../public/fonts/fontawesome-free-5.12.0/scss/fontawesome.scss';
+@import '../../public/fonts/fontawesome-free-5.12.0/scss/brands.scss';
+@import '../../public/fonts/fontawesome-free-5.12.0/scss/solid.scss';
+@import '../../public/fonts/fontawesome-free-5.12.0/scss/regular.scss';
+
+/**
+ *  Custom Styles
+ */
+/* import global styles */
+@import 'globals';
+
+/* import scss of partials */
+@import 'partials/navbar';
+@import 'partials/responsive';
+
+/* import scss of pages */
+@import 'pages/home';
+@import 'pages/login';
+@import 'pages/error';
